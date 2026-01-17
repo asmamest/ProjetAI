@@ -1,0 +1,8 @@
+pydicom 
+opencv-python
+albumentations 
+matplotlib 
+numpy 
+pandas 
+timm
+scikit-learn
