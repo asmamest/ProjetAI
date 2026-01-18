@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pth
+*.xlsx
+processed_images/
+*.png
+[0-9]*/
+.agent/
+.gemini/
+.idea/
+.vscode/

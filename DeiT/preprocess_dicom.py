@@ -12,7 +12,7 @@ import multiprocessing
 # =============================================================================
 # Configuration
 # =============================================================================
-BASE_DIR = Path(".")
+BASE_DIR = Path("..") # Parent directory where data is located
 EXCEL_FILE = BASE_DIR / "final_dataset_all_patients.xlsx"
 OUTPUT_DIR = BASE_DIR / "processed_images"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
