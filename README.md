@@ -48,7 +48,7 @@ Le projet est structuré par famille de modèles pour faciliter les comparaisons
 
 ## 5. Résultats Obtenus
 *   **DeiT-Small** : **76.15%** de précision par patient.
-*   **DenseNet121** : (Entraînement en cours/prêt pour comparaison).
+*   **DenseNet121** : **75.84%** de précision par patient.
 
 ---
 *Projet développé dans le cadre de l'analyse RSNA Breast Density.*
